@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        body{
+            background: #000;
+        }
+        canvas{
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+    </style>
+</head>
+<body>
+    <canvas style="border: 1px solid #000;"></canvas>
+    <!--<script src="scripts/Flappy.js"></script>-->
+    <!--<script src="scripts/Config.js"></script>-->
+    <!--<script src="scripts/button.js"></script>-->
+    <!--<script src="scripts/startView.js"></script>-->
+    <!--<script src="scripts/readyView.js"></script>-->
+    <!--<script src="scripts/background.js"></script>-->
+    <!--<script src="scripts/piple.js"></script>-->
+    <!--<script src="scripts/bird.js"></script>-->
+    <!--<script src="scripts/cent.js"></script>-->
+    <!--<script src="scripts/overView.js"></script>-->
+    <!--<script src="scripts/Factory.js"></script>-->
+    <!--<script src="scripts/game.js"></script>-->
+    <script src="scripts/FlappyBird-min.js"></script>
+    <script>
+        var canvas = document.querySelector('canvas');
+        var g = Flappy.Game.getInstance(canvas);
+        g.start();
+
+    </script>
+</body>
+</html>
