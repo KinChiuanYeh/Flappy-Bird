@@ -1,9 +1,9 @@
 # Flappy-Bird
 
 # 在线演示地址
-![](http://i4.buimg.com/591858/c108ba5352f1d608.png)
+![](http://www.tietuku.com/a9a148816f7d41a6)
 
 
-+ 只适合 PC 端
++ 适合 PC 和 移动 端
 
-鼠标点击即可游戏
+点击即可游戏
