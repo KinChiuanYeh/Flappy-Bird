@@ -1,9 +1,16 @@
 # Flappy-Bird
 
 # 在线演示地址
-![](http://i4.buimg.com/591858/e3fad5f269e390f4.png)
+<div align="center">
+
+![](http://i2.muimg.com/591858/4511559005c165f4.png)
+
++ 适合 PC 和 移动 端
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;点击即可游戏
+</div>
 
 
-+ 只适合 PC 端
+<!--+ 适合 PC 和 移动 端
 
-鼠标点击即可游戏
+点击即可游戏-->
