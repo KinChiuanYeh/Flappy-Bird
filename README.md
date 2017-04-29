@@ -1,7 +1,7 @@
 # Flappy-Bird
 
 # 在线演示地址
-![](http://www.tietuku.com/a9a148816f7d41a6)
+![](http://i2.muimg.com/591858/4511559005c165f4.png)
 
 
 + 适合 PC 和 移动 端
